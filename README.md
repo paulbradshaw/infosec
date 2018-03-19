@@ -2,6 +2,8 @@
 
 This repo contains resources and links related to information security (infosec) for journalists. They are designed for students on the [MA in Data Journalism](http://www.bcu.ac.uk/media/courses/data-journalism-ma-2018-19) and the [MA in Multiplatform and Mobile Journalism](http://www.bcu.ac.uk/courses/multiplatform-and-mobile-journalism-ma-2018-19) at Birmingham City University, but should be useful for anyone interested in protecting their sources, stories and reputations.
 
+Start here: [Why every journalist should have a threat model (with cats)](https://onlinejournalismblog.com/2014/07/16/why-every-journalist-should-have-a-threat-model-with-cats/)
+
 ## Threat modeling
 
 Any infosec approach should start by modeling the threat you are likely to face. 
@@ -22,6 +24,18 @@ The two handbooks below cover useful infosec techniques - the second more broadl
 * [EFF: Surveillance self-defense security scenarios](https://ssd.eff.org/en/module-categories/security-scenarios): this provides a short series of tutorials based on different scenarios. If you are a student start with the [Journalism student scenario](https://ssd.eff.org/en/playlist/journalism-student)
 * For Journalism: [Privacy and Security for journalism](https://forjournalism.github.io/courses/security-and-privacy/)
 * [How to set up encrypted email using Thunderbird and Enigmail](https://docs.google.com/document/d/e/2PACX-1vQAR_5kAx-JtRmLHYWcinSIquaWLHFmWAfsjJSkCON9EO99F3EOmGNotCpi9-DPVvlzVdnfzdSC3FWf/pub)
+
+## Tools
+
+I keep a list of tools related to security here: [https://pinboard.in/u:paulbradshaw/t:security+tools](https://pinboard.in/u:paulbradshaw/t:security+tools)
+
+## Research
+
+Research on the subject that I've come across can be found at [https://pinboard.in/u:paulbradshaw/t:security+research](https://pinboard.in/u:paulbradshaw/t:security+research)
+
+## Other resources
+
+You can change the last keyword in that URL to find other material, or look at the *related tags* cloud on the right at [https://pinboard.in/u:paulbradshaw/t:security](https://pinboard.in/u:paulbradshaw/t:security)
 
 
 
